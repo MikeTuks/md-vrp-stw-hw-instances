@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23298839.svg)](https://doi.org/10.5281/zenodo.23298839)
+
 # MD-VRP-STW-HW instances
 
 Benchmark instances for the multi-depot vehicle routing problem with soft time windows and
