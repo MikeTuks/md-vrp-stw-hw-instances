@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "name": "liushen",
+    "description": "Liu and Shen (1999), Appendix 2, per-vehicle fixed cost for the three worker types selected per Solomon family. Keyed by family (meta.group) and type_id. These are the values stored in the instance files.",
+    "source": "Liu and Shen (1999), Proc. Natl. Sci. Counc. ROC (A) 23(4), Appendix 2"
+  },
+  "C1": {
+    "A": 300,
+    "B": 800,
+    "C": 1350
+  },
+  "C2": {
+    "A": 1000,
+    "B": 1400,
+    "C": 2000
+  },
+  "R1": {
+    "A": 50,
+    "C": 140,
+    "E": 500
+  },
+  "R2": {
+    "A": 450,
+    "B": 700,
+    "C": 1200
+  },
+  "RC1": {
+    "A": 60,
+    "B": 150,
+    "D": 450
+  },
+  "RC2": {
+    "A": 150,
+    "C": 550,
+    "E": 1100
+  }
+}

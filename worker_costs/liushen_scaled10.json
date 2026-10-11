@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "name": "liushen_scaled10",
+    "description": "The fixed costs of liushen.json divided by 10. This is the configuration used in the thesis. On the validation split, the divisor reduces the fixed-cost share of the objective from 75-82% to 31-43%.",
+    "source": "Liu and Shen (1999), Appendix 2, divided by 10",
+    "base_config": "liushen",
+    "divisor": 10
+  },
+  "C1": {
+    "A": 30,
+    "B": 80,
+    "C": 135
+  },
+  "C2": {
+    "A": 100,
+    "B": 140,
+    "C": 200
+  },
+  "R1": {
+    "A": 5,
+    "C": 14,
+    "E": 50
+  },
+  "R2": {
+    "A": 45,
+    "B": 70,
+    "C": 120
+  },
+  "RC1": {
+    "A": 6,
+    "B": 15,
+    "D": 45
+  },
+  "RC2": {
+    "A": 15,
+    "C": 55,
+    "E": 110
+  }
+}
